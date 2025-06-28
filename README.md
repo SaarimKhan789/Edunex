@@ -1,5 +1,5 @@
 
-
+# Edunex 
 <b>EduNex</b> is a platform designed to bridge the gap between students, professionals, and high-quality educational resources in India. It connects users to personalized tutors, courses, and skill development programs, enhancing accessibility and efficiency in learning. The project is especially beneficial for users in Tier 2 and Tier 3 cities, addressing the growing demand for upskilling and quality education.
 
 ## Features
