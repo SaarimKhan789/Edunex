@@ -33,9 +33,7 @@
 ## Project Setup
 
 ### Prerequisites
-- Python 3.x
 - Node.js and npm
-- Flask
 - React
 
 ### Installation
@@ -48,23 +46,14 @@
 2. Navigate to the project directory:
    ```bash
    cd EduNex_full
-   ```
-
-3. Install backend dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   ```   ```
 
 4. Install frontend dependencies:
    ```bash
    cd EduNex_full
    npm install
    ```
-
-5. Run:
-   ```bash
-   python run.py
-   ```
+`
 
 ## Usage
 
